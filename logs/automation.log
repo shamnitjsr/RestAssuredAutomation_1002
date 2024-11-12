@@ -1,0 +1,9 @@
+02:14:44.802 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\RestAssuredAutomation_1002\testng.xml"
+02:14:45.344 [main] INFO  api.test.UserTests - ***** Creating User *****
+02:14:48.617 [main] INFO  api.test.UserTests - *****  User Created*****
+02:14:48.624 [main] INFO  api.test.UserTests - ***** Reading User Info  *****
+02:14:49.803 [main] INFO  api.test.UserTests - ***** User Info Display *****
+02:14:49.805 [main] INFO  api.test.UserTests - *************** Updating User ***************
+02:14:52.083 [main] INFO  api.test.UserTests - *************** Updated User ***************
+02:14:52.095 [main] INFO  api.test.UserTests - ***** Deleting User Info  *****
+02:14:53.208 [main] INFO  api.test.UserTests - ***** Deleted User Info  *****
