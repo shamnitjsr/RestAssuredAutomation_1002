@@ -34,3 +34,12 @@
 02:36:30.508 [main] INFO  api.test.UserTests - *************** Updated User ***************
 02:36:30.510 [main] INFO  api.test.UserTests - ***** Deleting User Info  *****
 02:36:31.648 [main] INFO  api.test.UserTests - ***** Deleted User Info  *****
+02:42:51.407 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\RestAssuredAutomation_1002\testng.xml"
+02:42:52.063 [main] INFO  api.test.UserTests - ***** Creating User *****
+02:42:55.494 [main] INFO  api.test.UserTests - *****  User Created*****
+02:42:55.498 [main] INFO  api.test.UserTests - ***** Reading User Info  *****
+02:42:56.785 [main] INFO  api.test.UserTests - ***** User Info Display *****
+02:42:56.787 [main] INFO  api.test.UserTests - *************** Updating User ***************
+02:42:59.253 [main] INFO  api.test.UserTests - *************** Updated User ***************
+02:42:59.255 [main] INFO  api.test.UserTests - ***** Deleting User Info  *****
+02:43:00.536 [main] INFO  api.test.UserTests - ***** Deleted User Info  *****
